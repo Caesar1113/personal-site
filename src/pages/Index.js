@@ -25,7 +25,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/Caesar1113/personal-site">here</a>. Project forked from <a href="https://github.com/mldangelo/personal-site">MICHAEL D&apos;ANGELO</a>. New features added and content edited by myself XD.</p>
+      <p> Source available <a href="https://github.com/Caesar1113/personal-site">here</a>. Project forked from <a href="https://github.com/mldangelo/personal-site">Sizhe Yan</a>. New features added and content edited by myself XD.</p>
     </article>
   </Main>
 );
